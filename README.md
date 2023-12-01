@@ -85,10 +85,9 @@ Thanks for playing Tic Tac Toe!................
 
 # sample image
 
-![c to1](https://github.com/Srivarthaniselvam/codsoft-C-task-3/assets/151417502/25857af5-a444-4383-9a7e-2b8518227a2f)
-![c to2](https://github.com/Srivarthaniselvam/codsoft-C-task-3/assets/151417502/f2290492-b730-49e7-bfee-62a1bce5d51f)
-![c to3](https://github.com/Srivarthaniselvam/codsoft-C-task-3/assets/151417502/def69ac6-7f2e-4cd5-a630-d83b8b285703)
-![c to4](https://github.com/Srivarthaniselvam/codsoft-C-task-3/assets/151417502/2c731b8f-c2c0-41fe-b0b2-f6ef2959c808)
-![c to51](https://github.com/Srivarthaniselvam/codsoft-C-task-3/assets/151417502/c79e5f23-70b2-46fa-8645-a3ae0298a754)
-![c to6](https://github.com/Srivarthaniselvam/codsoft-C-task-3/assets/151417502/05e92bf6-c89c-4f39-b8a7-15f8531118a4)
-
+![toe1](https://github.com/Srivarthaniselvam/codsoft-C-task-3/assets/151417502/7f38c56e-a84c-4adb-8861-8193fa0f9a4b)
+![toe2](https://github.com/Srivarthaniselvam/codsoft-C-task-3/assets/151417502/ab6090d8-9cc4-4852-a182-715826a39673)
+![toe3](https://github.com/Srivarthaniselvam/codsoft-C-task-3/assets/151417502/2214e145-cb0c-4752-98b7-7180ee2e1f66)
+![toe4](https://github.com/Srivarthaniselvam/codsoft-C-task-3/assets/151417502/2dc8551f-7cf7-467e-9636-c13dab3e8b90)
+![toe5](https://github.com/Srivarthaniselvam/codsoft-C-task-3/assets/151417502/677752cf-6513-4bba-9025-4d8d3cfd2759)
+![toe6](https://github.com/Srivarthaniselvam/codsoft-C-task-3/assets/151417502/b5dd20de-ecee-4e05-bcaa-9ccda33fc3d4)
